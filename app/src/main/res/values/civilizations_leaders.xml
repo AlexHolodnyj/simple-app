@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="civilizations_leaders">
+        <item>Teddy Roosevelt</item>
+        <item>Saladin</item>
+        <item>John Curtin</item>
+        <item>Montezuma</item>
+        <item>Pedro II</item>
+        <item>Wilfrid Laurier</item>
+        <item>Qin Shi Huang</item>
+        <item>Poundmaker</item>
+        <item>Wilhelmina</item>
+        <item>Cleopatra</item>
+        <item>Victoria</item>
+        <item>Eleanor of Aquitaine</item>
+        <item>Catherine de Medici</item>
+        <item>Eleanor of Aquitaine</item>
+        <item>Tamar</item>
+        <item>Frederick Barbarossa</item>
+        <item>Pericles</item>
+        <item>Gorgo</item>
+        <item>Matthias Corvinus</item>
+        <item>Pachacuti</item>
+        <item>Gandhi</item>
+        <item>Chandragupta</item>
+        <item>Gitarja</item>
+        <item>Hojo Tokimune</item>
+        <item>Jayavarman VII</item>
+        <item>Mvemba a Nzinga</item>
+        <item>Seondeok</item>
+        <item>Alexander</item>
+        <item>Mansa Musa</item>
+        <item>Kupe</item>
+        <item>Lautaro</item>
+        <item>Genghis Khan</item>
+        <item>Harald Hardrada</item>
+        <item>Suleiman</item>
+        <item>Cyrus</item>
+        <item>Dido</item>
+        <item>Jadwiga</item>
+        <item>Trajan</item>
+        <item>Peter</item>
+        <item>Robert the Bruce</item>
+        <item>Tomyris</item>
+        <item>Philip II</item>
+        <item>Gilgamesh</item>
+        <item>Kristina</item>
+        <item>Shaka</item>
+
+    </string-array>
+
+
+</resources>

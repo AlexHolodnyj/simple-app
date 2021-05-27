@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Civ6</string>
+    <string name="btn_go_random_choice">Go</string>
+    <string name="btn_ban_list">Ban List</string>
+    <string name="btn_ban_all_civilizations">Ban All</string>
+    <string name="btn_unban_all_civilizations">Unban All</string>
+    <string name="iv_civilization_description_image" translatable="false">Civilization image</string>
+    <string name="iv_civilization_image" translatable="false">Civilization image</string>
+</resources>

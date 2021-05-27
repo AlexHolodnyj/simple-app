@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "civilization_list">
+        <item>American</item>
+        <item>Arabian</item>
+        <item>Australian</item>
+        <item>Aztec</item>
+        <item>Brazilian</item>
+        <item>Canadian</item>
+        <item>Chinese</item>
+        <item>Cree</item>
+        <item>Dutch</item>v
+        <item>Egyptian</item>
+        <item>English</item>
+        <item>English</item>
+        <item>French</item>
+        <item>French</item>
+        <item>Georgian</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>Greek</item>
+        <item>Hungarian</item>
+        <item>Incan</item>
+        <item>Indian</item>
+        <item>Indian</item>
+        <item>Indonesian</item>
+        <item>Japanese</item>
+        <item>Khmer</item>
+        <item>Kongolese</item>
+        <item>Korean</item>
+        <item>Macedonian</item>
+        <item>Malian</item>
+        <item>Maori</item>
+        <item>Mapuche</item>
+        <item>Mongolian</item>
+        <item>Norwegian</item>
+        <item>Ottoman</item>
+        <item>Persian</item>
+        <item>Phoenician</item>
+        <item>Polish</item>
+        <item>Roman</item>
+        <item>Russian</item>
+        <item>Scottish</item>
+        <item>Scythian</item>
+        <item>Spanish</item>
+        <item>Sumerian</item>
+        <item>Swedish</item>
+        <item>Zulu</item>
+
+    </string-array>
+
+
+</resources>
+
