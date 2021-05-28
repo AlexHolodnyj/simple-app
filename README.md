@@ -11,3 +11,7 @@ User can pick element and take some description about it or generate next list
 <img src="/Screenshot/Scr1.png" width="288" height="592"/> <img src="/Screenshot/Scr2.png" width="288" height="592"/>
 
 <img src="/Screenshot/Scr3.png" width="288" height="592"/> <img src="/Screenshot/Scr4.png" width="288" height="592"/>
+
+## Requirements
+
+Android Studio
